@@ -1,0 +1,11 @@
+/Users/kim/source/console-library/bin/Debug/netcoreapp2.2/console-library.deps.json
+/Users/kim/source/console-library/bin/Debug/netcoreapp2.2/console-library.runtimeconfig.json
+/Users/kim/source/console-library/bin/Debug/netcoreapp2.2/console-library.runtimeconfig.dev.json
+/Users/kim/source/console-library/bin/Debug/netcoreapp2.2/console-library.dll
+/Users/kim/source/console-library/bin/Debug/netcoreapp2.2/console-library.pdb
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.csprojAssemblyReference.cache
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.csproj.CoreCompileInputs.cache
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.AssemblyInfoInputs.cache
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.AssemblyInfo.cs
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.dll
+/Users/kim/source/console-library/obj/Debug/netcoreapp2.2/console-library.pdb
