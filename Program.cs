@@ -5,8 +5,11 @@ namespace console_library
 {
   class Program
   {
+
     static void Main(string[] args)
     {
+      bool inLibrary = true;
+
       Console.WriteLine("Welcome to The Library!");
       Book id1 = new Book("To Kill a Mockingbird", "Harper Lee");
       Book id2 = new Book("Harry Potter and the Goblet of Fire", "JK Rowling");
@@ -21,11 +24,15 @@ namespace console_library
       library.AddBook(id4);
       library.AddBook(id5);
 
-      library.PrintBooks();
+      while (inLibrary)
+      {
+        library.PrintBooks();
 
-      Console.WriteLine("Select a number to check out a book");
-      string selection = Console.ReadLine();
-      library.CheckOut(selection);
+        Console.WriteLine("Select a number to check out a book");
+        string selection = Console.ReadLine();
+        library.CheckOut(selection);
+      }
+
 
 
 
